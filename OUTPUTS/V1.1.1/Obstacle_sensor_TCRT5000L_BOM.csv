@@ -1,0 +1,18 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"R4,R3";"0603R";2;"10k";;;
+2;"C1,C2";"0603C";2;"0.1uF";;;
+3;"REF**";"Logo-Back-SolderedFULL-15mm";1;"Logo-Front-SolderedFULL-15mm";;;
+4;",,,,,,";"buzzardLabel";7;"";;;
+5;"H2,H1";"HOLE_3.2mm";2;"HOLE_3.2mm";;;
+6;"R5";"0402R";1;"2k2";;;
+7;"G***";"Logo-Back-OSH-3.5mm";1;"LOGO";;;
+8;"FD1";"FIDUCIAL_23";1;"FIDUCIAL";;;
+9;"R2";"tc33x-2-103e";1;"tc33x-2-103e";;;
+10;"R1";"0603R";1;"300R";;;
+11;"U2";"SOIC−8";1;"LM393";;;
+12;"G***";"Logo-Front-Soldered-4mm";1;"LOGO";;;
+13;"G***";"Symbol-Front-Movement";1;"LOGO";;;
+14;"D1";"0402LED";1;"purple";;;
+15;"U1";"TCRT5000L";1;"tcrt5000L";;;
+16;"REF**";"Version1.1.1.";1;"Version1.1.1.";;;
+17;"K1";"HEADER_MALE_4X1";1;"HEADER_MALE_4X1";;;
